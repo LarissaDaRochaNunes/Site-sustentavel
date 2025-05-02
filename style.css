@@ -8,8 +8,9 @@ body {
 main {
     background-color: aliceblue;
     border-radius: 10px;
-    box-shadow: 5px 5 px 15px black;
-    width: 600px;
+    box-shadow: 5px 5px 15px black;
+    width: 90%;
+    max-width: 600px;
     padding: 10px;
     margin: auto;
 }
