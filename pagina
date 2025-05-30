@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Site sobre sustentabilidade, dicas ecológicas e preservação ambiental." />
+  <title>Site Sustentável</title>
+  <link rel="stylesheet" href="style.01.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <h1>🌱 Site Sustentável</h1>
+    <p>Conscientização e atitudes para um futuro melhor</p>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>O que é Sustentabilidade?</h2>
+      <div class="card">
+        <p>Sustentabilidade é a capacidade de suprir as necessidades da geração atual sem comprometer o futuro das próximas gerações. Envolve o uso consciente dos recursos naturais, a redução do desperdício e a busca por alternativas ecológicas.</p>
+        <img src="natureza.jpg" alt="Imagem de natureza representando sustentabilidade">
+      </div>
+    </section>
+
+    <section>
+      <h2>Dicas para uma Vida Sustentável</h2>
+      <div class="card">
+        <ul>
+          <li>🚲 Utilize bicicleta ou transporte coletivo sempre que possível.</li>
+          <li>♻️ Separe seu lixo e recicle.</li>
+          <li>💧 Economize água e energia elétrica.</li>
+          <li>🌿 Prefira produtos biodegradáveis e orgânicos.</li>
+          <li>🛍️ Use sacolas reutilizáveis em vez de plástico.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contato</h2>
+      <div class="card">
+        <p>Quer saber mais ou compartilhar uma ideia sustentável?</p>
+        <p>📧 Email: <a href="mailto:larissarochanunes@gmail.com">larissarochanunes@gmail.com</a></p>
+        <p>🌍 Instagram: <a href="https://www.instagram.com/simplicidaderural/" target="_blank">@simplicidaderural</a></p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Site Sustentável | Desenvolvido por Larissa da Rocha Nunes</p>
+  </footer>
+
+</body>
+</html>
